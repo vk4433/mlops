@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/255970156415427204/6eab1a3199184ebaafc308ead5333fd6/artifacts
+end_time: 1734013624051
+entry_point_name: ''
+experiment_id: '255970156415427204'
+lifecycle_stage: active
+run_id: 6eab1a3199184ebaafc308ead5333fd6
+run_name: nosy-shad-243
+run_uuid: 6eab1a3199184ebaafc308ead5333fd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734013617994
+status: 3
+tags: []
+user_id: polam
